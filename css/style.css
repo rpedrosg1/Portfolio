@@ -51,6 +51,8 @@ section{
     flex-flow: wrap;
     align-items: center;
     margin-top: 25%;
+    margin-right: 15%;
+
    }
 #header .container h1{
     font-size: 48px;
