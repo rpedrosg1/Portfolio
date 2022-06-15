@@ -452,7 +452,20 @@ div {
     padding-left: 0px
 }
 
-
+#portfolio .carousel-control-prev,
+#portfolio .carousel-control-next{
+    width: 30px;
+    height: 30px;
+    background-color: #000;
+    border-radius: 50%;
+    top: calc(50% - 25px);
+}
+#portfolio .carousel-control-prev{
+    left: 5%;
+}
+#portfolio .carousel-control-next{
+    right: 5%;
+}
 
 *, :after, :before {
     box-sizing: border-box;
