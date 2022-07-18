@@ -5,7 +5,10 @@ body{
     height: 100%;
     font-family: "Opens sans",sans-serif;
     color: black;
-    background: aliceblue;
+    /*background: aliceblue;*/
+    background: url("../img/background.webp") center;
+
+
    }
 
 section{
